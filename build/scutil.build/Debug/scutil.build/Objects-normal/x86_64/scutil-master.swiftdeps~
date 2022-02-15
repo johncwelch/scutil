@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1644702031, 46692848]
+build_end_time: [1644702031, 702794075]
+inputs:
+  "/Users/jwelch/Library/CloudStorage/OneDrive-Home/Xcode Projects/scutil/scutil/AppDelegate.swift": [1644607278, 541921615]
+  "/Users/jwelch/Library/CloudStorage/OneDrive-Home/Xcode Projects/scutil/scutil/ViewController.swift": [1644607199, 590622901]
